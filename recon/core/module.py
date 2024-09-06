@@ -9,6 +9,7 @@ import sqlite3
 import sys
 import textwrap
 import yaml
+import importlib
 # framework libs
 from recon.core import framework
 from recon.utils import validators
